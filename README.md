@@ -18,6 +18,7 @@ For an even better macOS look and feel, set the following appearance options:
 - Set `Show result subtext` to `Only for Alternative Actions` or `Never`
 - Set `Show scroll indicator` to `Automatically`
 - Enable `Auto highlight top result`
+- Set `Show Alfred on` to `mouse screen`
 - Enable `Use native macOS Dark Mode window rendering`
 
 ## Automatically switching between the macOS and macOS Dark appearance
